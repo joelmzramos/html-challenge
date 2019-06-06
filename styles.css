@@ -1,0 +1,168 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1{
+  color: rgba(255,255,255,0.8);
+  margin-bottom: 20px;
+  font-size: 45px;
+}
+h4{
+  text-align: center;
+}
+.white{
+  color: rgba(255,255,255,0.8);
+}
+.nav-bar{
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 5px;
+  height: 25px
+}
+
+.nav-bar a{
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.acronym {
+  float: left;
+}
+
+.heart{
+  margin: 0 1em;
+}
+.search{
+  padding-top: 5px;
+}
+.search img{
+  width: 80px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+.search li img{
+  width: 40px;
+  margin-right: 10px;
+  float: left;
+}
+.search li{
+  margin-right: 10px;
+}
+.search input{
+  margin-right: 10px;
+  background-color: rgb(31, 82, 111);
+}
+#inputfind{
+  width: 900px;
+}
+.center  {
+  width: 27em;
+  margin: 0 20%;
+  padding-top: 85px;
+  padding-right: 300px;
+}
+.header{
+  background-image: url("images/city-scape.svg");
+  height: 400px;
+}
+.header button{
+  background-color: rgb(240, 146, 51);
+  color: white;
+  margin: 20px 0;  
+}
+.header form{
+  float: left;
+}
+.header li{
+  list-style-type: none;
+  float: left;
+  color: rgba(255,255,255,0.8);
+}
+.header a{
+  text-decoration: none;
+  color: rgba(255,255,255,0.8);
+}
+.clearfix { clear: both; }
+#bear{
+  width: 25px;
+}
+#signup-orgs{
+  background-color: rgb(39, 53, 71);
+  height: 400px;
+}
+#signup-orgs button{
+  background-color: rgb(203, 56, 55);
+  color: white;
+  margin: 20px 0;
+}
+.content-orgs{
+  float: right;
+  width: 50%
+} 
+
+.content-orgs li{
+  line-height: 2;
+} 
+#signup-orgs img{
+  width: 400px;
+}
+.container-orgs{
+  margin: 0 15%;
+  padding: 50px 0;
+}
+.col { 
+  float: left;
+  margin: 0 5%;
+ }
+
+.col-3{ 
+  width: 25%;
+}
+.col-middle{
+  float: left;
+  margin: 0 2.5%
+}
+#install{
+  background-image: url("images/forklift.svg");
+  background-size: cover;
+  height: 400px;
+}
+#install button{
+  background-color: rgb(49, 68, 88)
+  color: white;
+  margin: 20px 0;  
+}
+.container-gi{
+  height: 400px;
+  padding: 50px 15%;
+
+}
+.center-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.text-image{
+  margin: 10px 10%;
+  text-align: center;
+}
+.text-center{
+  text-align: center;
+  margin: 20px 0;
+}
+.container-install{
+  padding: 120px 0 0 220px;
+  width: 300px;
+}
